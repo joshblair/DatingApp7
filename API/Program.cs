@@ -1,3 +1,4 @@
+/* This code is configuring and running a C# web application using the ASP.NET Core framework. */
 using API.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
